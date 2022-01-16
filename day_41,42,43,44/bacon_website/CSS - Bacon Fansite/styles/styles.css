@@ -1,0 +1,34 @@
+/*-----------TAG SELECTORS-------------*/
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+   color: #cc0000;
+   font-size: 35px;
+}
+
+/*
+img{
+    background-color: #cc0000;
+}
+*/
+
+/*-----------CLASS SELECTORS-------------*/
+
+.bacon:hover{ /*:hover is a pseudoclass*/
+    background-color: gold;
+}
+
+.broccoli{
+    background-color: #ff0000ef;
+}
+
+/*--------------ID SELECTORS----------------*/
+
+/*The id and class selectors is more specific, that's why #heading overwrites the
+tag selector*/
+#heading{
+    color: rgba(0, 0, 255, 0.767);
+}

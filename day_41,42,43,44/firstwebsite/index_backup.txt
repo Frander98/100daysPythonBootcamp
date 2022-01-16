@@ -1,0 +1,68 @@
+<!--Open in default browser: ALT + B-->
+<!--Open in other browser: Shift + ALT + B-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>💙 Frander's personal site</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <img src="img/Foto-modified.png"
+     alt="Frander's photo">
+    <h1>Frander Adriel Calvo Rodríguez</h1>
+    <p><em> Engineering Student at Universidad Técnica Nacional de Costa Rica</em></p>
+    <p>I'm a software Engineering student, I study and research topics about
+       computer science. I'd love to work with you in an exciting software project.
+       I have a dog, I love to play with him and he teaches me a lot about life and 
+       its meaning. 
+    </p>
+    <hr size="2" noshade="">
+    <h3>Education</h3>
+        <ul>
+            <li>2021-now: <a href="https://www.utn.ac.cr/">Universidad Técnica Nacional de CR</a>, Software Engineering</li>
+            <li>2020-now: 100 days Python Bootcamp, The App Brewery</li>
+            <li>2016: CTP La Fortuna, Accountig</li>
+        </ul>
+    <h3>Work Experience</h3>
+    <hr size="2" noshade="">
+    <table>
+        <thead>
+            <tr>
+                <th>Period</th>
+                <th>Description</th>
+        </thead>
+        <tbody>
+        <tr>
+            <td>2017-nowadays:</td>
+            <td>Accounts payable at Arenal Paraiso Resort.</td>
+        </tr>
+        <tr>
+            <td>2018-nowadays</td>
+            <td>Working on personal programming projects.</td>
+        </tr>
+        </tbody>
+    </table>
+    <hr size="2" noshade="">
+    <h3>Skills</h3>
+    <table>
+        <tr>
+            <td>Python</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Html5</td>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+    </table>
+    <hr size="2" noshade="">
+    <h3><a href="hobbies.html">My hobbies</a></h3>
+    <h3><a href="contact_info.html">Contact information</a></h3>
+</body>
+</html>

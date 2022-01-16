@@ -1,0 +1,20 @@
+body{
+    background-color: #B4B897;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2, h3{
+    color: #142F43;
+}
+hr{
+    background-color: #B4B897;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #142F43;
+    border-width: 5px;
+    width: 2%;
+}
+table, th, td{
+    border: 1px solid #142F43;
+    border-collapse: collapse;
+}
